@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/545_mernstack/static/css/main.b1d7ec7b.css",
-    "main.js": "/545_mernstack/static/js/main.0a1871c4.js",
+    "main.css": "/545_mernstack/static/css/main.83498ad4.css",
+    "main.js": "/545_mernstack/static/js/main.1dcbb14b.js",
     "static/js/592.39c61612.chunk.js": "/545_mernstack/static/js/592.39c61612.chunk.js",
-    "static/media/student icon.jpg": "/545_mernstack/static/media/student icon.7fbba6d81422d235e477.jpg",
+    "static/media/logo.svg": "/545_mernstack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/545_mernstack/index.html",
-    "main.b1d7ec7b.css.map": "/545_mernstack/static/css/main.b1d7ec7b.css.map",
-    "main.0a1871c4.js.map": "/545_mernstack/static/js/main.0a1871c4.js.map",
+    "main.83498ad4.css.map": "/545_mernstack/static/css/main.83498ad4.css.map",
+    "main.1dcbb14b.js.map": "/545_mernstack/static/js/main.1dcbb14b.js.map",
     "592.39c61612.chunk.js.map": "/545_mernstack/static/js/592.39c61612.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d7ec7b.css",
-    "static/js/main.0a1871c4.js"
+    "static/css/main.83498ad4.css",
+    "static/js/main.1dcbb14b.js"
   ]
 }
